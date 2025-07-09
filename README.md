@@ -1,3 +1,0 @@
-# Flask
-
-Estudo sobre Flesk
