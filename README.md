@@ -1,4 +1,4 @@
-📒 Lista de Contatos com Flask
+📒 **_Lista de Contatos com Flask_**
 
 Este é um projeto em Flask que implementa uma lista de contatos interativa, onde os usuários podem:
 
@@ -12,7 +12,7 @@ Os posts podem ser comentados/responsidos 💬
 
 O objetivo é simular uma mini rede social simples, voltada para gerenciamento de contatos.
 
-⚙️ Tecnologias utilizadas
+⚙️ **_Tecnologias utilizadas_**
 
 Python 3.x
 
@@ -29,7 +29,7 @@ Flask-WTF
 
 HTML, CSS e Bootstrap para o front-end
 
-🔑 Funcionalidades principais
+🔑 **_Funcionalidades principais_**
 
  Registro de usuários
 
