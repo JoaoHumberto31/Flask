@@ -44,6 +44,6 @@ HTML, CSS e Bootstrap para o front-end
  Melhorar o design do front-end
 
  Implementar paginação nos posts
----------------------------------------
+ 
 Projeto desenvolvido por João Humberto
 ---------------------------------------
